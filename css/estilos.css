@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://media.gettyimages.com/vectors/cute-cartoon-city-with-buildings-and-traffic-vector-id1004968430");
+}
+
+.caja-semaforo{
+    background-color: #FEA111;
+    padding: 10px;
+    border: 2px solid black;
+    width: 80px;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 40px;
+
+}
+.luz-semaforo{
+    background-color: #FCD971 ;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin: 0 auto; 
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.centrar{
+    text-align: center;
+    margin-top: 20px;
+}
+button{
+    background-color: green;
+    color: white;
+    padding: 10 px;
+    border-radius: 15px;
+}
